@@ -1,5 +1,5 @@
 <h1 align="center">Hi there! 👋 I'm Oumaima</h1>
-<h3 align="center">Passionate Full Stack Developer from Morocco</h3>
+<h3 align="center">Web Development Specialist. Crafting the future with logic, syntax, and a touch of caffeine.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=hach2adi&label=Profile%20views&color=0e75b6&style=flat" alt="hach2adi" /> </p>
 
@@ -23,18 +23,6 @@
 
 - ⚡ Fun fact: **I'm also passionate about photography and love capturing moments that tell unique stories.**
 
-# 🏄‍♂️ Connect with me:
-
-<p align="left">
-  <a href="https://linkedin.com/in/hach2adi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="hach2adi" height="30" width="40" /></a> 
-  <a href="https://stackoverflow.com/users/hach2adi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="hach2adi" height="30" width="40" /></a> 
-  <a href="https://instagram.com/hach2adi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="hach2adi" height="30" width="40" /></a> 
-  <a href="https://dribbble.com/hach2adi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/dribbble.svg" alt="hach2adi" height="30" width="40" /></a> 
-  <a href="https://medium.com/hach2adi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="hach2adi" height="30" width="40" /></a> 
-  <a href="https://www.leetcode.com/hach2adi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="hach2adi" height="30" width="40" /></a> 
-  <a href="https://discord.gg/hach2adi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="hach2adi" height="30" width="40" /></a> 
-</p>
-
 ## 🧰 Languages and Tools:
 
 <img align="left" alt="Java" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg"/>
@@ -54,16 +42,34 @@
 <br />
 
 ## 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=hach2adi&theme=dark&hide_border=false&include_all_commits=true&count_private=false)
-<br>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=hach2adi&theme=dark&hide_border=false)<br>
+![](https://github-readme-stats.vercel.app/api?username=hach2adi&theme=dark&hide_border=false&include_all_commits=true&count_private=false)<br>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=hach2adi&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=hach2adi&theme=onedark&no-frame=false&no-bg=false&margin-w=4)
 
-### 😂 Dare you to not laugh
-<img src='https://randommeme-five.vercel.app/' style="height: 400px;"/>
+## ⚡ My mission
+<p>
+  Actively developing *innovative* web solutions that drive positive change and impact various industries. Continuously challenging conventional thinking, contributing to alternative approaches in web development. Embracing diversity and inclusion in the workplace, valuing varied perspectives and experiences. Actively seeking like-minded professionals, collaborators, and mentors to explore uncharted territories and make a meaningful impact on the world. Feel free to connect if you share a passion for leveraging technology, driving positive change, or exploring *new horizons*!
+</p>
+
+# 🏄‍♂️ Connect with me:
+
+<p align="left">
+  <a href="https://linkedin.com/in/hach2adi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="hach2adi" height="30" width="40" /></a> 
+  <a href="https://stackoverflow.com/users/hach2adi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="hach2adi" height="30" width="40" /></a> 
+  <a href="https://instagram.com/hach2adi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="hach2adi" height="30" width="40" /></a> 
+  <a href="https://dribbble.com/hach2adi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/dribbble.svg" alt="hach2adi" height="30" width="40" /></a> 
+  <a href="https://medium.com/hach2adi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="hach2adi" height="30" width="40" /></a> 
+  <a href="https://www.leetcode.com/hach2adi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="hach2adi" height="30" width="40" /></a> 
+  <a href="https://discord.gg/hach2adi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="hach2adi" height="30" width="40" /></a> 
+</p>
+
+## 😂 Don't mind this part
+<img align="center" src='https://randommeme-five.vercel.app/' style="height: 400px;"/>
 
 ---
+
 <h3 align="center">Thank you for visiting my page & see you later 👋 </h3>
+
