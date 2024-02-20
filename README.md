@@ -51,7 +51,7 @@
 
 ## ⚡ My mission
 <p>
-  Actively developing *innovative* web solutions that drive positive change and impact various industries. Continuously challenging conventional thinking, contributing to alternative approaches in web development. Embracing diversity and inclusion in the workplace, valuing varied perspectives and experiences. Actively seeking like-minded professionals, collaborators, and mentors to explore uncharted territories and make a meaningful impact on the world. Feel free to connect if you share a passion for leveraging technology, driving positive change, or exploring *new horizons*!
+  Actively developing *innovative* web solutions that drive positive change and impact various industries. Continuously *challenging* conventional thinking, contributing to alternative approaches in web development. Embracing diversity and inclusion in the workplace, valuing varied perspectives and experiences. Actively seeking like-minded professionals, collaborators, and mentors to explore uncharted territories and make a meaningful impact on the world. Feel free to connect if you share a passion for leveraging technology, *driving positive change*, or exploring *new horizons*!
 </p>
 
 # 🏄‍♂️ Connect with me:
