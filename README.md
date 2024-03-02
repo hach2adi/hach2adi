@@ -5,7 +5,7 @@
 
 # 💫 About Me:
 
-- 👩🏻‍💻 **Software developer sharing my journey and learnings in tech.**
+- 👩🏻‍💻 **Full Stack Web developer sharing my journey and learnings in tech.**
 
 - 💭 Currently learning **about data analytics and dataviz!**
 
