@@ -11,13 +11,13 @@
 
 - 🔭 I’m working **on enhancing my programming skills and exploring new technologies in the field of artificial intelligence.**
 
-- 🌱 I’m currently learning **advanced machine learning techniques and diving deeper into natural language processing.**
+- 🌱 I’m next planning on exploring **machine **learning techniques and diving deeper into natural language processing.**
 
 - 👯 I’m looking to collaborate on **innovative projects that leverage technology to address real-world challenges and make a positive impact.**
 
 - 🤝 I’m looking for help with **refining my understanding of distributed systems and optimizing code for performance.**
 
-- 💬 Ask me about **the latest trends in AI, software development best practices, or recommendations for interesting books on technology and science.**
+- 💬 Ask me about **the latest trends in AI, web development best practices, or recommendations for interesting books on technology and science.**
 
 - 📫 How to reach me: **Feel free to connect with me on LinkedIn or drop me an email at [hachchadi.oumaima@gmail.com].**
 
@@ -66,10 +66,10 @@
   <a href="https://discord.gg/hach2adi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="hach2adi" height="30" width="40" /></a> 
 </p>
 
-## 😂 Don't mind this part
+## 😂 Don't mind this part please
 <img align="center" src='https://randommeme-five.vercel.app/' style="height: 400px;"/>
 
 ---
 
-<h3 align="center">Thank you for visiting my page & see you later 👋 </h3>
+<h3 align="center">Thank you for visiting my page & have a nice day 👋 </h3>
 
